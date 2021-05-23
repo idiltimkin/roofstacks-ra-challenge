@@ -9,4 +9,4 @@ mvn clean test
 
 - Junit 5
 - Rest Assured 
-- https://reqres.in/ as API source
+- https://generator.swagger.io/ as API source
